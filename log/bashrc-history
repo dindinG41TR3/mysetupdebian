@@ -1,0 +1,190 @@
+ping 8.8.8.8
+nmcli
+iwconfig
+sudo su
+login root
+nmcli
+nmcli dev wifi list
+nmcli dev radio wifi on
+nmcli radio on
+nmcli dev wifi list
+iwconfig
+nmcli
+nmcli connection show
+nmcli
+reboot
+halt
+nmcli dev wifi radio on
+iwconfig
+nmcli radio
+nmcli device
+nmcli
+iwconfig
+sudo su
+iwconfig
+sudo iwconfig
+systemctl reboot
+systemctl reboot -i
+iwconfig
+sudo iwconfig
+sudo su
+iwconfig
+sudo su
+sudo nano /etc/network/interfaces
+sudo leafpad /etc/network/interfaces
+sudo mousepad /etc/network/interfaces
+sudo mousepad /etc/sudoers
+sudo apt purge xterm
+sudo apt autoremove
+sudo apt purge wpagui
+sudo apt update
+sudo apt install inkscape
+sudo apt install gimp
+sudo apt install filezilla
+sudo apt install figlet neofetch
+neofetch
+ls
+sudo dpkg -i ABDownloadManager_1.5.0_linux_x64.deb
+sudo apt install wine
+winecfg
+sudo dpkg --add-architecture i386 && apt-get update && apt-get install wine32:i386
+sudo dpkg --add-architecture i386
+sudo su
+winecfg
+winecfg32
+winecfg
+rm -r ~/.wine
+winecfg
+sudo apt install mono-complete
+sudo apt install mtp-tools
+sudo apt install libmtp-runtime
+sudo apt install jmtpfs
+sudo killall gvfsd
+sudo mtp-detect 
+The name :1.118 was not provided by any .service files
+sudo mtp-detect 
+mtpfs
+sudo apt install gvfs-mtp
+sudo apt install gvfs
+sudo apt install nautilus
+winecfg
+ls
+wine wine-mono-8.0.0-x86.msi
+ls
+sudo dpkg -i virtualbox-7.1_7.1.4-165100~Debian~bookworm_amd64.deb
+sudo apt install -f
+sudo apt install     linux-headers-amd64 linux-headers-6.1.0-28-amd64
+sudo su
+sudo apt install virtualbox-qt
+sudo apt install virtualbox
+sudo wget https://www.virtualbox.org/download/linux_repositories/debian/virtualbox.list -O /etc/apt/sources.list.d/virtualbox.list
+sudo apt update
+sudo su
+clear
+apt update
+apt install net-tools wireless-tools
+nmcli
+apt install systemd-sysv
+iwconfig
+nmcli
+apt install network-manager
+apt install network-manager-gnome
+apt install wine
+apt install wine32
+clear
+cd /etc/apt
+ls
+apt install nano
+nano sources.list
+nano sources.list
+apt update
+apt install wine32
+clear
+ping 8.8.8.8
+clear
+apt install sudo
+cd /etc
+cd NetworkManager
+clear
+ls
+nano NetworkManager.conf
+service network-manager restart
+touch
+clear
+touch /etc/NetworkManager/conf.d/10-globally-managed-devices.conf
+service network-manager restart
+systemctl restart NetworkManager
+nmcli
+apt install linux-firmware
+apt install firmware-atheros
+iwconfig
+apt install firmware-realtek
+apt install wireless-tools
+iwconfig
+nmcli
+iwconfig
+nmcli dev wifi list
+iwconfig
+cd etc
+cd /etc
+clear
+cd sudoers
+cd sudo
+ls
+cat sudoers
+nano sudoers
+adduser dindin sudo
+1
+clear
+nmcli dev status
+nmcli radio wifi up
+nmcli radio wifi on
+nmcli dev wifi list
+iwconfig
+ip link set wlp2s0 up
+dmesg | grep 'intel\|wifi'
+nmcli device show wlp2s0
+apt install wpasupplicant
+apt install wpagui
+apt install firmware-linux-nonfree
+iwconfig
+nmcli dev radio on
+nmcli wifi radio on
+nmcli radio wifi on
+nmcli dev list
+nmcli dev wifi list
+nmcli dev wifi list
+iwconfig
+lsusb
+wlp2s0
+apt install linux-firmware
+lspci 
+rfkill unblock all
+sudo nano /etc/network/interfaces
+auto wlan0
+iwconfig
+reboot
+iwconfig
+nmcli dev wifi list
+apt-get update && apt-get install wine32:i386
+apt install ttf-mscorefonts-installer
+apt install ttf-mscorefonts-installer:i386
+apt install moc
+exit
+  /sbin/vboxconfig
+apt install gcc pearl
+apt install gcc perl
+  /sbin/vboxconfig
+/sbin/vboxconfig
+apt install dkms
+/sbin/vboxconfig
+apt install fasttrack-archive-keyring
+mouspad /etc/apt/sources.list
+mousepad /etc/apt/sources.list
+apt update
+apt install virtualbox-qt
+apt install virtualbox
+mousepad /etc/apt/sources.list
+apt update
+apt install gdebi
+exit
