@@ -1,0 +1,6 @@
+/etc/NetworkManager/NetworkManager.conf
+
+[ifupdown]
+managed=true
+
+systemctl restart network-manager
