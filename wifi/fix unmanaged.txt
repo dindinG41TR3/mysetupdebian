@@ -1,6 +1,14 @@
+Silahkan Ubah File Konfigurasi di :
+
 /etc/NetworkManager/NetworkManager.conf
+
+Silahkan Ganti dengan 
 
 [ifupdown]
 managed=true
 
-systemctl restart network-manager
+Lalu Gunakan Perintah Ini
+
+sudo systemctl restart network-manager
+sudo systemctl enable --now NetworkManager
+sudo reboot
