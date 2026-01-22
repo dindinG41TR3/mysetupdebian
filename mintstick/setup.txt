@@ -1,0 +1,7 @@
+git clone git@github.com:linuxmint/mintstick.git
+sudo bash install.sh
+sudo apt install python3-unidecode
+sudo apt install gir1.2-polkit-1.0
+sudo apt install gir1.2-udisks-2.0
+sudo apt install libxapp1 libxapp-dev
+sudo mintstick
