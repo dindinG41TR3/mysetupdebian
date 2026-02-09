@@ -1,0 +1,6 @@
+# debian 12
+wget  https://download.virtualbox.org/virtualbox/7.2.6/virtualbox-7.2_7.2.6-172322~Debian~bookworm_amd64.deb
+sudo apt install libxcb-cursor0
+sudo apt install linux-headers-amd64 linux-headers-6.1.0-43-amd64
+sudo dpkg-i virtualbox-7.2_7.2.6-172322~Debian~bookworm_amd64.deb
+sudo /sbin/vboxconfig
