@@ -1,0 +1,21 @@
+%d %B %Y %R
+
+  Category 	Code	Description	Example
+Year	%Y	Year with century	2026
+%y	Year without century (zero-padded)	26
+Month	%B	Full month name	April
+%b	Abbreviated month name	Apr
+%m	Month as a zero-padded decimal	04
+Day	%d	Day of the month (zero-padded)	06
+%j	Day of the year (001–366)	096
+Weekday	%A	Full weekday name	Monday
+%a	Abbreviated weekday name	Mon
+%w	Weekday as decimal (0=Sunday, 6=Saturday)	1
+Time	%H	Hour (24-hour clock, zero-padded)	14
+%I	Hour (12-hour clock, zero-padded)	02
+%M	Minute (zero-padded)	05
+%S	Second (zero-padded)	09
+%p	Locale's equivalent of AM or PM	PM
+Other	%Z	Time zone name	UTC
+%z	UTC offset (+HHMM or -HHMM)	+0000
+%%	A literal '%' character	%
