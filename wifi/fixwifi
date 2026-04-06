@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+sudo systemctl stop NetworkManager
+sudo killall wpa_supplicant
+sudo systemctl start NetworkManager
